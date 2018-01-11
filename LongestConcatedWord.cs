@@ -5,7 +5,7 @@ using System.Text;
 using System.IO;
 
 
-namespace langestWord
+namespace LongestWord
 {
     class LongestConcatedWord
     {
